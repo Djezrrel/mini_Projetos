@@ -1,0 +1,42 @@
+body{
+    background-image: url('imagens/fundo.png');
+}
+
+.Links{
+    text-align: center ;
+    font-size: large;
+    padding: 10px;
+    background-color: #c5c5b2
+    
+}
+
+
+.Principal{ text-align: center;
+    height: auto;
+    width: 100%;
+    
+}
+
+
+a{
+    color: rgb(10, 10, 209);
+    text-decoration: none;
+    font-weight: bold;
+    padding: 2px;
+}
+
+.SobreEla{
+    background-color: #e8e8d9;
+    padding: 10px
+   
+}
+
+#FIM{
+    text-align: center;
+    text-decoration: underline;
+    font-weight: bolder;
+}
+
+.Ultima{
+    text-align: center;
+}
